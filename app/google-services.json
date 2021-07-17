@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "22779633888",
+    "firebase_url": "https://flora-hub.firebaseio.com",
+    "project_id": "flora-hub",
+    "storage_bucket": "flora-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22779633888:android:3aa224b211ad14ed6d7085",
+        "android_client_info": {
+          "package_name": "com.example.florahub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22779633888-mqi0njdtqq8ldu3a0bf5g418jfr5fmgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW_kHk1A-PMSkd6JqmVI0qhRDzS8R6R6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22779633888-mqi0njdtqq8ldu3a0bf5g418jfr5fmgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name ="black">#000000</color>
+    <color name ="white">#FFFFFF</color>
+    <color name ="NEWGreen">#009846</color>
+    <color name ="green">#228B22</color>
+    <color name ="springGreen">#00FF7F</color>
+    <color name ="mediumSeaGreen">#3CB371</color>
+    <color name ="seaGreen">#2E8B57</color>
+    <color name ="mediumSpringGreen">#00FA9A</color>
+    <color name ="red">#DC143C</color>
+</resources>
